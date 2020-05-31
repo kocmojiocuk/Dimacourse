@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.Pane?>
 
-<AnchorPane prefHeight="173.0" prefWidth="329.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="by.myshkovets.app.javaFX.сontroller.StartPageController">
+<AnchorPane prefHeight="173.0" prefWidth="329.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="by.DIMA.app.javaFX.сontroller.StartPageController">
    <children>
       <Pane prefHeight="217.0" prefWidth="386.0" style="-fx-background-color: #DCDCDC;">
          <children>

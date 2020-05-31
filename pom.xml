@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>by.myshkovets.app.javaFX.client.Launcher</mainClass>
+                            <mainClass>by.DIMA.app.javaFX.client.Launcher</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
